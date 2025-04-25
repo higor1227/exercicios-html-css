@@ -1,0 +1,39 @@
+/* bom dia */
+body {
+    background-color: whitesmoke;
+    font-family: Arial;
+    padding: 20px;
+    background-image: url("../img/imgg.jpg");
+}
+
+h1, h2 {
+    color: black;
+    border: 1px solid black;
+}
+label {
+    display: block;
+    margin-top: 10px;
+}
+input, button {
+    width: 100%;
+    margin-top: 5px;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+}
+a {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+}
+form {
+    background-color: #ffffff;
+    padding: 15px;
+    border: 1px solid #ddd;
+    max-width: 300px;
+    margin: 0 auto;
+}
